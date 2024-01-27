@@ -1,6 +1,6 @@
 while 2 > 1:
-    begin = input("start program? (enter yes or no): ")
-    if begin == "n":
+    begin = input("Would you like to start the program? (enter y or n): ")
+    if begin == "no":
         continue
     if begin == "no":
         continue
