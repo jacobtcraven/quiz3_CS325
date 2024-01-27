@@ -13,7 +13,7 @@ while 2 > 1:
 while 2 > 1:
     fname = input("first name: ")
 
-    print(f"first name consists of {len(fname)} characters" )
+    print(f"Your first name consists of {len(fname)} letters" )
 
     fnameback = ""
 
