@@ -11,9 +11,9 @@ while 2 > 1:
     continue
 
 while 2 > 1:
-    fname = input("Please enter your first name: ")
+    fname = input("first name: ")
 
-    print(f"Your first name consists of {len(fname)} characters" )
+    print(f"first name consists of {len(fname)} characters" )
 
     fnameback = ""
 
