@@ -20,11 +20,11 @@ while 2 > 1:
     for i in range(len(fname)):
         fnameback += fname[len(fname) - i - 1]
 
-    print(f"Your first name backwards is {fnameback}")
+    print(f"first name backwards {fnameback}")
 
-    lname = input("Please enter your last name: ")
+    lname = input("last name: ")
 
-    print(f"Your last name consists of {len(lname)} characters" )
+    print(f"Name consists of {len(lname)} letters" )
 
     lnameback = ""
 
